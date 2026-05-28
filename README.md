@@ -29,10 +29,13 @@ ngrok http 8000
 7. Paste the ngrok webhook URL into Twilio Sandbox settings
 /webhook
 
-PROJECT STRUCTURE (PHASE 1)
-  AgenticVoiceModel/
+## Project Structure (Phase 1)
+
+```text
+AgenticVoiceModel/
 ├── main.py
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
 └── .env
+```
