@@ -8,7 +8,7 @@ AI receptionist bot for qualifying real leads.
 
 ```bash
 git clone https://github.com/AdityaMishra3000/AgenticReceptionistMVP.git
-cd AgenticReceptionistMVP
+cd AgenticVoiceModel
 ```
 
 ### 2. Create a virtual environment
